@@ -1,4 +1,4 @@
- [
+ { "lista":
       {
         "id": "1",
         "name": "GenericProcessSubTypeEvent",
@@ -83,4 +83,4 @@
         "propietario": "User",
         "apto": false
       }
- ]
+}

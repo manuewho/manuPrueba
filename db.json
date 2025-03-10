@@ -1,86 +1,86 @@
 [     
-     {
-        "id": "1",
-        "name": "GenericProcessSubTypeEvent",
-        "estado": "Habilitado",
-        "propietario": "Core",
-        "apto": true
-      },
-      {
-        "id": "2",
-        "name": "GenericProcessOrganization",
-        "estado": "Deshabilitado",
-        "propietario": "Core",
-        "apto": true
-      },
-      {
-        "id": "3",
-        "name": "GenericProcessLocation",
-        "estado": "Habilitado",
-        "propietario": "Core",
-        "apto": true
-      },
-      {
-        "id": "4",
-        "name": "GenericProcessAppointment",
-        "estado": "Habilitado",
-        "propietario": "Core",
-        "apto": true
-      },
-      {
-        "id": "5",
-        "name": "GenericProcessLaboratory",
-        "estado": "Deshabilitado",
-        "propietario": "Core",
-        "apto": true
-      },
-      {
-        "id": "6",
-        "name": "GenericProcessOrgLoc",
-        "estado": "Deshabilitado",
-        "propietario": "Core",
-        "apto": true
-      },
-      {
-        "id": "7",
-        "name": "GenericProcessProcedimiento",
-        "estado": "Habilitado",
-        "propietario": "User",
-        "apto": true
-      },
-      {
-        "id": "8",
-        "name": "GenericProcessReport",
-        "estado": "Deshabilitado",
-        "propietario": "User",
-        "apto": true
-      },
-      {
-        "id": "9",
-        "name": "GenericProcessCard",
-        "estado": "Habilitado",
-        "propietario": "User",
-        "apto": true
-      },
-      {
-        "id": "10",
-        "name": "GenericProcessExtension",
-        "estado": "Deshabilitado",
-        "propietario": "User",
-        "apto": true
-      },
-      {
-        "id": "11",
-        "name": "GenericProcessPatient",
-        "estado": "Deshabilitado",
-        "propietario": "User",
-        "apto": true
-      },
-      {
-        "id": "12",
-        "name": "GenericProcessATNA",
-        "estado": "Deshabilitado",
-        "propietario": "User",
-        "apto": false
-      }
+{
+   "id": "1",
+   "name": "GenericProcessSubTypeEvent",
+   "estado": "Habilitado",
+   "propietario": "Core",
+   "apto": "true"
+ },
+ {
+   "id": "2",
+   "name": "GenericProcessOrganization",
+   "estado": "Deshabilitado",
+   "propietario": "Core",
+   "apto": "true"
+ },
+ {
+   "id": "3",
+   "name": "GenericProcessLocation",
+   "estado": "Habilitado",
+   "propietario": "Core",
+   "apto": "true"
+ },
+ {
+   "id": "4",
+   "name": "GenericProcessAppointment",
+   "estado": "Habilitado",
+   "propietario": "Core",
+   "apto": "true"
+ },
+ {
+   "id": "5",
+   "name": "GenericProcessLaboratory",
+   "estado": "Deshabilitado",
+   "propietario": "Core",
+   "apto": "true"
+ },
+ {
+   "id": "6",
+   "name": "GenericProcessOrgLoc",
+   "estado": "Deshabilitado",
+   "propietario": "Core",
+   "apto": "true"
+ },
+ {
+   "id": "7",
+   "name": "GenericProcessProcedimiento",
+   "estado": "Habilitado",
+   "propietario": "User",
+   "apto": "true"
+ },
+ {
+   "id": "8",
+   "name": "GenericProcessReport",
+   "estado": "Deshabilitado",
+   "propietario": "User",
+   "apto": "true"
+ },
+ {
+   "id": "9",
+   "name": "GenericProcessCard",
+   "estado": "Habilitado",
+   "propietario": "User",
+   "apto": "true"
+ },
+ {
+   "id": "10",
+   "name": "GenericProcessExtension",
+   "estado": "Deshabilitado",
+   "propietario": "User",
+   "apto": "true"
+ },
+ {
+   "id": "11",
+   "name": "GenericProcessPatient",
+   "estado": "Deshabilitado",
+   "propietario": "User",
+   "apto": "true"
+ },
+ {
+   "id": "12",
+   "name": "GenericProcessATNA",
+   "estado": "Deshabilitado",
+   "propietario": "User",
+   "apto": "false"
+ }
 ]

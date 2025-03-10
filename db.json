@@ -1,5 +1,4 @@
- { "lista":
-      {
+{
         "id": "1",
         "name": "GenericProcessSubTypeEvent",
         "estado": "Habilitado",
@@ -82,5 +81,4 @@
         "estado": "Deshabilitado",
         "propietario": "User",
         "apto": false
-      }
 }

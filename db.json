@@ -1,84 +1,84 @@
 [     
 {
    "id": "1",
-   "name": "GenericProcessSubTypeEvent",
+   "nombre": "GenericProcessSubTypeEvent",
    "estado": "Habilitado",
    "propietario": "Core",
    "apto": "true"
  },
  {
    "id": "2",
-   "name": "GenericProcessOrganization",
+   "nombre": "GenericProcessOrganization",
    "estado": "Deshabilitado",
    "propietario": "Core",
    "apto": "true"
  },
  {
    "id": "3",
-   "name": "GenericProcessLocation",
+   "nombre": "GenericProcessLocation",
    "estado": "Habilitado",
    "propietario": "Core",
    "apto": "true"
  },
  {
    "id": "4",
-   "name": "GenericProcessAppointment",
+   "nombre": "GenericProcessAppointment",
    "estado": "Habilitado",
    "propietario": "Core",
    "apto": "true"
  },
  {
    "id": "5",
-   "name": "GenericProcessLaboratory",
+   "nombre": "GenericProcessLaboratory",
    "estado": "Deshabilitado",
    "propietario": "Core",
    "apto": "true"
  },
  {
    "id": "6",
-   "name": "GenericProcessOrgLoc",
+   "nombre": "GenericProcessOrgLoc",
    "estado": "Deshabilitado",
    "propietario": "Core",
    "apto": "true"
  },
  {
    "id": "7",
-   "name": "GenericProcessProcedimiento",
+   "nombre": "GenericProcessProcedimiento",
    "estado": "Habilitado",
    "propietario": "User",
    "apto": "true"
  },
  {
    "id": "8",
-   "name": "GenericProcessReport",
+   "nombre": "GenericProcessReport",
    "estado": "Deshabilitado",
    "propietario": "User",
    "apto": "true"
  },
  {
    "id": "9",
-   "name": "GenericProcessCard",
+   "nombre": "GenericProcessCard",
    "estado": "Habilitado",
    "propietario": "User",
    "apto": "true"
  },
  {
    "id": "10",
-   "name": "GenericProcessExtension",
+   "nombre": "GenericProcessExtension",
    "estado": "Deshabilitado",
    "propietario": "User",
    "apto": "true"
  },
  {
    "id": "11",
-   "name": "GenericProcessPatient",
+   "nombre": "GenericProcessPatient",
    "estado": "Deshabilitado",
    "propietario": "User",
    "apto": "true"
  },
  {
    "id": "12",
-   "name": "GenericProcessATNA",
+   "nombre": "GenericProcessATNA",
    "estado": "Deshabilitado",
    "propietario": "User",
    "apto": "false"
